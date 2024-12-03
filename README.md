@@ -14,6 +14,7 @@ La aplicación de gestión de eventos permite a los usuarios registrar eventos, 
 2. **Visualizar eventos**: Muestra una lista de eventos registrados con nombre, descripción y precio.
 3. **Detalles de eventos**: Cada evento registrado contiene información detallada que puede visualizarse.
 4. **Interfaz interactiva**: Incluye un botón flotante para agregar nuevos eventos fácilmente.
+5. **Soporte Multilenguaje**: Dependiendo de el idioma que tengas configurado en el movil los textos se mostrarán en dicho idioma.
 
 ---
 
