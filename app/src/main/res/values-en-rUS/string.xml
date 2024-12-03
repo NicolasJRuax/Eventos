@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Event List</string>
+    <string name="title_add_event">Add Event</string>
+    <string name="title_event_list">Event List</string>
+    <string name="hint_event_name">Event Name</string>
+    <string name="hint_event_description">Description</string>
+    <string name="hint_event_date">Date</string>
+    <string name="hint_event_address">Address</string>
+    <string name="hint_event_price">Price</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="fab_add_event_description">Add Event</string>
+</resources>
