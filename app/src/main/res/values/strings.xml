@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Eventos</string>
+    <string name="add_event">\n</string>
 </resources>
